@@ -1,0 +1,135 @@
+2024-04-13 15:26:46,014 INFO c.t.p.PatientregistrationapiApplication [main] API Loading..........
+2024-04-13 15:26:46,316 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading..........
+2024-04-13 15:26:46,892 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 17.0.9 with PID 92104 (E:\tgwsapr2024\patientregistrationapi\patientregistrationapi\target\classes started by Dell in E:\tgwsapr2024\patientregistrationapi\patientregistrationapi)
+2024-04-13 15:26:46,893 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-13 15:26:46,894 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-13 15:27:07,087 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 20.759 seconds (process running for 21.722)
+2024-04-13 15:27:57,923 INFO c.t.p.s.PatientServiceImpl [http-nio-7074-exec-10] Patient Created
+2024-04-13 16:06:45,446 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading..........
+2024-04-13 16:09:56,795 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 17.0.9 with PID 92104 (E:\tgwsapr2024\patientregistrationapi\patientregistrationapi\target\classes started by Dell in E:\tgwsapr2024\patientregistrationapi\patientregistrationapi)
+2024-04-13 16:09:56,796 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-13 16:09:56,796 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-13 16:10:49,541 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading..........
+2024-04-13 16:10:49,586 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 17.0.9 with PID 92104 (E:\tgwsapr2024\patientregistrationapi\patientregistrationapi\target\classes started by Dell in E:\tgwsapr2024\patientregistrationapi\patientregistrationapi)
+2024-04-13 16:10:49,586 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-13 16:10:49,587 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-13 16:10:56,347 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading..........
+2024-04-13 16:10:56,392 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 17.0.9 with PID 92104 (E:\tgwsapr2024\patientregistrationapi\patientregistrationapi\target\classes started by Dell in E:\tgwsapr2024\patientregistrationapi\patientregistrationapi)
+2024-04-13 16:10:56,393 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-13 16:10:56,393 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-13 16:11:04,619 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading..........
+2024-04-13 16:11:04,661 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 17.0.9 with PID 92104 (E:\tgwsapr2024\patientregistrationapi\patientregistrationapi\target\classes started by Dell in E:\tgwsapr2024\patientregistrationapi\patientregistrationapi)
+2024-04-13 16:11:04,661 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-13 16:11:04,662 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-13 16:12:35,893 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading..........
+2024-04-13 16:12:35,943 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 17.0.9 with PID 92104 (E:\tgwsapr2024\patientregistrationapi\patientregistrationapi\target\classes started by Dell in E:\tgwsapr2024\patientregistrationapi\patientregistrationapi)
+2024-04-13 16:12:35,944 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-13 16:12:35,944 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-13 16:12:39,430 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading..........
+2024-04-13 16:12:39,460 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 17.0.9 with PID 92104 (E:\tgwsapr2024\patientregistrationapi\patientregistrationapi\target\classes started by Dell in E:\tgwsapr2024\patientregistrationapi\patientregistrationapi)
+2024-04-13 16:12:39,460 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-13 16:12:39,460 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-13 16:14:43,100 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading..........
+2024-04-13 16:14:43,135 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 17.0.9 with PID 92104 (E:\tgwsapr2024\patientregistrationapi\patientregistrationapi\target\classes started by Dell in E:\tgwsapr2024\patientregistrationapi\patientregistrationapi)
+2024-04-13 16:14:43,135 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-13 16:14:43,136 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-13 16:15:45,173 INFO c.t.p.PatientregistrationapiApplicationTests [main] Starting PatientregistrationapiApplicationTests using Java 17.0.9 with PID 98512 (started by Dell in E:\tgwsapr2024\patientregistrationapi\patientregistrationapi)
+2024-04-13 16:15:45,175 DEBUG c.t.p.PatientregistrationapiApplicationTests [main] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-13 16:15:45,176 INFO c.t.p.PatientregistrationapiApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2024-04-13 16:16:04,208 INFO c.t.p.PatientregistrationapiApplicationTests [main] Started PatientregistrationapiApplicationTests in 19.504 seconds (process running for 21.949)
+2024-04-13 16:16:17,947 INFO c.t.p.PatientregistrationapiApplication [main] API Loading..........
+2024-04-13 16:16:18,295 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading..........
+2024-04-13 16:16:19,018 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 17.0.9 with PID 99236 (E:\tgwsapr2024\patientregistrationapi\patientregistrationapi\target\classes started by Dell in E:\tgwsapr2024\patientregistrationapi\patientregistrationapi)
+2024-04-13 16:16:19,019 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-13 16:16:19,022 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-13 16:16:39,139 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 20.834 seconds (process running for 22.055)
+2024-04-13 16:19:27,394 INFO c.t.p.PatientregistrationapiApplication [main] API Loading..........
+2024-04-13 16:19:27,802 INFO c.t.p.PatientregistrationapiApplication [restartedMain] API Loading..........
+2024-04-13 16:19:28,730 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Starting PatientregistrationapiApplication using Java 17.0.9 with PID 94240 (E:\tgwsapr2024\patientregistrationapi\patientregistrationapi\target\classes started by Dell in E:\tgwsapr2024\patientregistrationapi\patientregistrationapi)
+2024-04-13 16:19:28,731 DEBUG c.t.p.PatientregistrationapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-13 16:19:28,735 INFO c.t.p.PatientregistrationapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-13 16:19:49,642 INFO c.t.p.PatientregistrationapiApplication [restartedMain] Started PatientregistrationapiApplication in 21.827 seconds (process running for 23.228)
+2024-04-16 18:50:23,354 INFO c.t.a.AppointmentapiApplication [main] API Loading..........
+2024-04-16 18:50:23,687 INFO c.t.a.AppointmentapiApplication [restartedMain] API Loading..........
+2024-04-16 18:50:24,405 INFO c.t.a.AppointmentapiApplication [restartedMain] Starting AppointmentapiApplication using Java 17.0.9 with PID 33368 (E:\tgwsapr2024\appointmentapi\target\classes started by Dell in E:\tgwsapr2024\appointmentapi)
+2024-04-16 18:50:24,407 DEBUG c.t.a.AppointmentapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-16 18:50:24,408 INFO c.t.a.AppointmentapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-16 18:50:46,433 INFO c.t.a.AppointmentapiApplication [restartedMain] Started AppointmentapiApplication in 22.736 seconds (process running for 23.904)
+2024-04-16 19:20:09,376 INFO c.t.a.AppointmentapiApplication [main] API Loading..........
+2024-04-16 19:20:09,764 INFO c.t.a.AppointmentapiApplication [restartedMain] API Loading..........
+2024-04-16 19:20:10,557 INFO c.t.a.AppointmentapiApplication [restartedMain] Starting AppointmentapiApplication using Java 17.0.9 with PID 44560 (E:\tgwsapr2024\appointmentapi\target\classes started by Dell in E:\tgwsapr2024\appointmentapi)
+2024-04-16 19:20:10,558 DEBUG c.t.a.AppointmentapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-16 19:20:10,560 INFO c.t.a.AppointmentapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-16 19:20:27,921 INFO c.t.a.AppointmentapiApplication [restartedMain] Started AppointmentapiApplication in 18.144 seconds (process running for 19.497)
+2024-04-16 19:21:22,518 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-8] Response<ResponseWrapper><message/><object><patientId>1</patientId><name><firstName>Arun</firstName><middleName></middleName><lastName>Kumar</lastName></name><dob>2001-04-13</dob><gender>MALE</gender><occupation>GOVT</occupation><email>arun@gmail.com</email><mobileNo>9987656890</mobileNo></object></ResponseWrapper>
+2024-04-16 19:26:31,580 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-5] Response{"message":null,"object":{"patientId":1,"name":{"firstName":"Arun","middleName":"","lastName":"Kumar"},"dob":"2001-04-13","gender":"MALE","occupation":"GOVT","email":"arun@gmail.com","mobileNo":9987656890}}
+2024-04-16 19:28:37,030 INFO c.t.a.AppointmentapiApplication [restartedMain] API Loading..........
+2024-04-16 19:28:37,099 INFO c.t.a.AppointmentapiApplication [restartedMain] Starting AppointmentapiApplication using Java 17.0.9 with PID 44560 (E:\tgwsapr2024\appointmentapi\target\classes started by Dell in E:\tgwsapr2024\appointmentapi)
+2024-04-16 19:28:37,100 DEBUG c.t.a.AppointmentapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-16 19:28:37,101 INFO c.t.a.AppointmentapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-16 19:28:41,117 INFO c.t.a.AppointmentapiApplication [restartedMain] Started AppointmentapiApplication in 4.083 seconds (process running for 512.694)
+2024-04-16 19:29:06,675 INFO c.t.a.AppointmentapiApplication [restartedMain] API Loading..........
+2024-04-16 19:29:06,736 INFO c.t.a.AppointmentapiApplication [restartedMain] Starting AppointmentapiApplication using Java 17.0.9 with PID 44560 (E:\tgwsapr2024\appointmentapi\target\classes started by Dell in E:\tgwsapr2024\appointmentapi)
+2024-04-16 19:29:06,736 DEBUG c.t.a.AppointmentapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-16 19:29:06,736 INFO c.t.a.AppointmentapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-16 19:29:10,471 INFO c.t.a.AppointmentapiApplication [restartedMain] Started AppointmentapiApplication in 3.789 seconds (process running for 542.049)
+2024-04-16 19:29:19,485 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-1] Response{"message":null,"object":{"patientId":1,"name":{"firstName":"Arun","middleName":"","lastName":"Kumar"},"dob":"2001-04-13","gender":"MALE","occupation":"GOVT","email":"arun@gmail.com","mobileNo":9987656890}}
+2024-04-16 19:29:19,487 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-1] Received Patient Id0
+2024-04-16 19:34:28,734 INFO c.t.a.AppointmentapiApplication [restartedMain] API Loading..........
+2024-04-16 19:34:28,767 INFO c.t.a.AppointmentapiApplication [restartedMain] Starting AppointmentapiApplication using Java 17.0.9 with PID 44560 (E:\tgwsapr2024\appointmentapi\target\classes started by Dell in E:\tgwsapr2024\appointmentapi)
+2024-04-16 19:34:28,768 DEBUG c.t.a.AppointmentapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-16 19:34:28,768 INFO c.t.a.AppointmentapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-16 19:34:33,257 INFO c.t.a.AppointmentapiApplication [restartedMain] Started AppointmentapiApplication in 4.519 seconds (process running for 864.834)
+2024-04-16 19:34:39,759 INFO c.t.a.AppointmentapiApplication [restartedMain] API Loading..........
+2024-04-16 19:34:39,787 INFO c.t.a.AppointmentapiApplication [restartedMain] Starting AppointmentapiApplication using Java 17.0.9 with PID 44560 (E:\tgwsapr2024\appointmentapi\target\classes started by Dell in E:\tgwsapr2024\appointmentapi)
+2024-04-16 19:34:39,787 DEBUG c.t.a.AppointmentapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-16 19:34:39,788 INFO c.t.a.AppointmentapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-16 19:34:43,078 INFO c.t.a.AppointmentapiApplication [restartedMain] Started AppointmentapiApplication in 3.315 seconds (process running for 874.655)
+2024-04-16 19:34:51,760 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-1] Response{"message":null,"object":{"patientId":1,"name":{"firstName":"Arun","middleName":"","lastName":"Kumar"},"dob":"2001-04-13","gender":"MALE","occupation":"GOVT","email":"arun@gmail.com","mobileNo":9987656890}}
+2024-04-16 19:34:51,762 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-1] Received Patient Id0
+2024-04-16 19:34:51,762 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-1] Appointment Created
+2024-04-16 19:49:39,943 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-6] Response{"message":null,"object":{"patientId":1,"name":{"firstName":"Arun","middleName":"","lastName":"Kumar"},"dob":"2001-04-13","gender":"MALE","occupation":"GOVT","email":"arun@gmail.com","mobileNo":9987656890}}
+2024-04-16 19:49:39,945 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-6] Received Patient Id0
+2024-04-16 19:49:39,946 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-6] Appointment Created
+2024-04-17 18:54:41,154 INFO c.t.a.AppointmentapiApplication [main] API Loading..........
+2024-04-17 18:54:42,066 INFO c.t.a.AppointmentapiApplication [restartedMain] API Loading..........
+2024-04-17 18:54:43,594 INFO c.t.a.AppointmentapiApplication [restartedMain] Starting AppointmentapiApplication using Java 17.0.9 with PID 70140 (E:\tgwsapr2024\appointmentapi\target\classes started by Dell in E:\tgwsapr2024\appointmentapi)
+2024-04-17 18:54:43,595 DEBUG c.t.a.AppointmentapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-17 18:54:43,599 INFO c.t.a.AppointmentapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-17 18:55:13,165 INFO c.t.a.AppointmentapiApplication [restartedMain] Started AppointmentapiApplication in 31.076 seconds (process running for 33.875)
+2024-04-17 18:57:09,032 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-8] Response{"message":null,"object":{"patientId":1,"name":{"firstName":"Arun","middleName":"","lastName":"Kumar"},"dob":"2001-04-13","gender":"MALE","occupation":"GOVT","email":"arun@gmail.com","mobileNo":9987656890}}
+2024-04-17 18:57:09,040 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-8] Received Patient Id0
+2024-04-17 18:57:09,041 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-8] Appointment Created
+2024-04-17 19:05:26,062 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-3] Response{"message":null,"object":{"patientId":1,"name":{"firstName":"Arun","middleName":"","lastName":"Kumar"},"dob":"2001-04-13","gender":"MALE","occupation":"GOVT","email":"arun@gmail.com","mobileNo":9987656890}}
+2024-04-17 19:05:26,065 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-3] Received Patient Id0
+2024-04-17 19:05:26,065 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-3] Appointment Created
+2024-04-17 19:10:38,846 INFO c.t.a.AppointmentapiApplication [restartedMain] API Loading..........
+2024-04-17 19:10:38,956 INFO c.t.a.AppointmentapiApplication [restartedMain] Starting AppointmentapiApplication using Java 17.0.9 with PID 70140 (E:\tgwsapr2024\appointmentapi\target\classes started by Dell in E:\tgwsapr2024\appointmentapi)
+2024-04-17 19:10:38,957 DEBUG c.t.a.AppointmentapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-17 19:10:38,957 INFO c.t.a.AppointmentapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-17 19:13:32,469 INFO c.t.a.AppointmentapiApplication [restartedMain] API Loading..........
+2024-04-17 19:13:32,613 INFO c.t.a.AppointmentapiApplication [restartedMain] Starting AppointmentapiApplication using Java 17.0.9 with PID 70140 (E:\tgwsapr2024\appointmentapi\target\classes started by Dell in E:\tgwsapr2024\appointmentapi)
+2024-04-17 19:13:32,614 DEBUG c.t.a.AppointmentapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-17 19:13:32,615 INFO c.t.a.AppointmentapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-17 19:13:37,586 INFO c.t.a.AppointmentapiApplication [restartedMain] API Loading..........
+2024-04-17 19:13:37,632 INFO c.t.a.AppointmentapiApplication [restartedMain] Starting AppointmentapiApplication using Java 17.0.9 with PID 70140 (E:\tgwsapr2024\appointmentapi\target\classes started by Dell in E:\tgwsapr2024\appointmentapi)
+2024-04-17 19:13:37,633 DEBUG c.t.a.AppointmentapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-17 19:13:37,633 INFO c.t.a.AppointmentapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-17 19:13:43,370 INFO c.t.a.AppointmentapiApplication [restartedMain] Started AppointmentapiApplication in 5.779 seconds (process running for 1144.079)
+2024-04-17 19:18:01,671 INFO c.t.a.AppointmentapiApplication [main] API Loading..........
+2024-04-17 19:18:02,123 INFO c.t.a.AppointmentapiApplication [restartedMain] API Loading..........
+2024-04-17 19:18:03,005 INFO c.t.a.AppointmentapiApplication [restartedMain] Starting AppointmentapiApplication using Java 17.0.9 with PID 41408 (E:\tgwsapr2024\appointmentapi\target\classes started by Dell in E:\tgwsapr2024\appointmentapi)
+2024-04-17 19:18:03,006 DEBUG c.t.a.AppointmentapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-17 19:18:03,008 INFO c.t.a.AppointmentapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-17 19:18:27,777 INFO c.t.a.AppointmentapiApplication [restartedMain] Started AppointmentapiApplication in 25.637 seconds (process running for 27.667)
+2024-04-17 19:19:08,639 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-10] Response{"message":null,"object":{"patientId":1,"name":{"firstName":"Arun","middleName":"","lastName":"Kumar"},"dob":"2001-04-13","gender":"MALE","occupation":"GOVT","email":"arun@gmail.com","mobileNo":9987656890}}
+2024-04-17 19:19:08,649 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-10] Received Patient Id0
+2024-04-17 19:19:08,649 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-10] Appointment Created
+2024-04-17 19:20:58,957 INFO c.t.a.AppointmentapiApplication [restartedMain] API Loading..........
+2024-04-17 19:20:59,051 INFO c.t.a.AppointmentapiApplication [restartedMain] Starting AppointmentapiApplication using Java 17.0.9 with PID 41408 (E:\tgwsapr2024\appointmentapi\target\classes started by Dell in E:\tgwsapr2024\appointmentapi)
+2024-04-17 19:20:59,051 DEBUG c.t.a.AppointmentapiApplication [restartedMain] Running with Spring Boot v3.2.4, Spring v6.1.5
+2024-04-17 19:20:59,052 INFO c.t.a.AppointmentapiApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-04-17 19:21:05,638 INFO c.t.a.AppointmentapiApplication [restartedMain] Started AppointmentapiApplication in 6.672 seconds (process running for 185.529)
+2024-04-17 19:21:29,976 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-10] Response{"message":null,"object":{"patientId":1,"name":{"firstName":"Arun","middleName":"","lastName":"Kumar"},"dob":"2001-04-13","gender":"MALE","occupation":"GOVT","email":"arun@gmail.com","mobileNo":9987656890}}
+2024-04-17 19:21:29,979 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-10] Received Patient Id0
+2024-04-17 19:21:29,979 INFO c.t.a.s.AppointmentServiceImpl [http-nio-7076-exec-10] Appointment Created
